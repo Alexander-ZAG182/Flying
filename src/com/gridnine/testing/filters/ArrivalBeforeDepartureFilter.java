@@ -1,7 +1,7 @@
 package com.gridnine.testing.filters;
 
 import com.gridnine.testing.Flight;
-import com.gridnine.testing.Segment;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
